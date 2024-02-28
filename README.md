@@ -1,18 +1,3 @@
-<!--
-**ikazirus/ikazirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
     <img  src="./cover.jpg"/>
 </p>
@@ -43,11 +28,17 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world.
 </br>
 Since I'm a full-time Software Engineer, I also like to share my code so others can make use of them.  
+</br>
+
+- 🔭 I’m currently working on developing Game AI Algorithms and NPC Behaviour Management...
+- 🌱 I’m currently learning Python for Ethical Hacking and Pentesting
+- 💬 Ask me about 🎮 Gaming/Game Dev & 📱 Mobile apps
+- ⚡ Fun fact: Most of the logically advanced Games are developed using Unity Game Engine...
 </p>
 
 </br>
 
-### Contact Me
+### 🤙🏻 Contact Me
 <a href="mailto:kazcorei@gmail.com">✉️ kazcorei@gmail.com</a>
 </br> 
 <a href="https://www.kazcore.com">🌐 www.kazcore.com</a>
@@ -75,7 +66,7 @@ Since I'm a full-time Software Engineer, I also like to share my code so others 
 
 <p align="center"> 
   <img align="center" src="./load.gif"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
   <img align="center" src="./load.gif"/>
 </p>
 
