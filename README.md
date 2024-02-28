@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img  src="./res/cover.jpg"/>
+    <img  src="./cover.jpg"/>
 </p>
 </br>
 <p align="center">
@@ -74,8 +74,8 @@ Since I'm a full-time Software Engineer, I also like to share my code so others 
 </br> 
 
 <p align="center"> 
-  <img align="center" src="./res/load.gif"/>
+  <img align="center" src="./load.gif"/>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-  <img align="center" src="./res/load.gif"/>
+  <img align="center" src="./load.gif"/>
 </p>
 
