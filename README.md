@@ -66,7 +66,7 @@ Since I'm a full-time Software Engineer, I also like to share my code so others 
 
 <p align="center"> 
   <img align="center" src="./load.gif"/>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
   <img align="center" src="./load.gif"/>
 </p>
 
