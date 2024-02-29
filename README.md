@@ -59,7 +59,7 @@ Since I'm a full-time Software Engineer, I also like to share my code so others 
 
 <p  align="center">
  <a href="https://github.com/ikazirus">
-  <img align="center" src="https://myreadme.vercel.app/api/embed/ikazirus?panels=userstatistics,commitgraph" alt="kasunreadme" />
+<!--   <img align="center" src="https://myreadme.vercel.app/api/embed/ikazirus?panels=userstatistics,commitgraph" alt="kasunreadme" /> -->
  </a>
 </p>
 </br> 
