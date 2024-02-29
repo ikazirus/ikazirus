@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img  src="./cover.jpg"/>
+    <img  src="./res/cover.jpg"/>
 </p>
 </br>
 <p align="center">
@@ -65,8 +65,8 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 </br> 
 
 <p align="center"> 
-  <img align="center" src="./load.gif"/>
+  <img align="center" src="./res/load.gif"/>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-  <img align="center" src="./load.gif"/>
+  <img align="center" src="./res/load.gif"/>
 </p>
 
