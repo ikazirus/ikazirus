@@ -38,7 +38,7 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 
 </br>
 
-### 🤙🏻 Contact Me
+### 🤙🏻 Contact Me 
 <a href="mailto:kazcorei@gmail.com">✉️ kazcorei@gmail.com</a>
 </br> 
 <a href="https://www.kazcore.com">🌐 www.kazcore.com</a>
