@@ -27,11 +27,11 @@
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
 I love to share knowledge with the rest of the world.
 </br>
-Since I'm a full-time Software Engineer, I also like to share my code so others can make use of them.  
+Since I'm a full-time Software Developer, I also like to share my code so others can make use of them.  
 </br>
 
-- 🔭 I’m currently working on developing Game AI Algorithms and NPC Behaviour Management...
-- 🌱 I’m currently learning Python for Ethical Hacking and Pentesting
+- 🔭 I’m currently working on developing **Game AI Algorithms** and **NPC Behaviour** Management...
+- 🌱 I’m currently learning **Apple Vision Pro** & **Python** for Ethical Hacking and Pentesting
 - 💬 Ask me about 🎮 Gaming/Game Dev & 📱 Mobile apps
 - ⚡ Fun fact: Most of the logically advanced Games are developed using Unity Game Engine...
 </p>
