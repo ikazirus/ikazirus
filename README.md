@@ -31,7 +31,7 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 </br>
 
 - 🔭 I’m currently working on developing **Game AI Algorithms** and **NPC Behaviour** Management...
-- 🌱 I’m currently learning **Apple Vision Pro App Development** & **Python**
+- 🌱 I’m currently learning more **C++**, **Apple Vision Pro App Development** & **Python** for **Automation and Security**
 - 💬 Ask me about 🎮 Gaming/Game Dev & 📱 Mobile apps
 - ⚡ Fun fact: Most of the logically advanced Games are developed using Unity Game Engine...
 </p>
