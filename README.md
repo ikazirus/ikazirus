@@ -4,7 +4,7 @@
 </br>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=ff8f00&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;AR%2FVR+Enthusiast;Expert+in+Mobile+Applications+%26+Games;Cyber+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=ff8f00&center=true&vCenter=true&random=false&width=800&lines=Senior+Full+Stack+Developer;Expert+in+Mobile+Applications+%26+Game+Development;AR%2FVR%2FXR+Enthusiast;Cyber+Security+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 - 🔭 I’m currently working on developing **Game AI Algorithms** and **NPC Behaviour** Management...
 - 🌱 I’m currently learning more **C++**, **Apple Vision Pro App Development** & **Python** for **Automation and Security**
 - 💬 Ask me about 🎮 Gaming/Game Dev & 📱 Mobile apps
-- ⚡ Fun fact: Most of the logically advanced Games are developed using Unity Game Engine...
+- ⚡ Fun fact: Most of the logically advanced Games are developed using **Unity** Game Engine...
 </p>
 
 
