@@ -1,6 +1,6 @@
 <p align="center"> 
     <img  src="./res/cover.jpg"/>
-</p>
+</p> 
 </br>
 <p align="center">
   <a href="https://git.io/typing-svg">
