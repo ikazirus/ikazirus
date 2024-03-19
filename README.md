@@ -3,7 +3,7 @@
 </p> 
 </br>
 <p align="center">
-  <a href="https://git.io/typing-svg">
+ <a href="https://github.com/ikazirus">
     <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=ff8f00&center=true&vCenter=true&random=false&width=800&lines=Senior+Full+Stack+Developer;Expert+in+Mobile+Applications+%26+Game+Development;AR%2FVR%2FXR+Enthusiast;Cyber+Security+Researcher" alt="Typing SVG" />
   </a>
 </p>
@@ -14,6 +14,7 @@
   </a>
   
 </p>
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ikazirus&label=Profile%20views&style=flat" alt="ikazirus" /> 
@@ -65,7 +66,14 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 
 <p align="center"> 
 <!--   <img align="center" src="./res/load.gif"/> -->
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&theme=great-gatsby&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ikazirus&theme=great-gatsby&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 <!--   <img align="center" src="./res/load.gif"/z> -->
 </p>
 
+</br>
+
+<p align="center">
+  <a href="https://github.com/ikazirus">
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,apple,arch,arduino,aws,bash,bitbucket,blender,bootstrap,c,cs,cpp,css,dart,debian,bots,django,express,figma,firebase,flask,flutter,gamemakerstudio,gcp,git,github,githubactions,gitlab,go,godot,graphql,heroku,html,ai,java,js,kali,linux,md,materialui,mongodb,mysql,nestjs,nginx,nodejs,npm,opencv,ps,php,postgres,postman,py,pytorch,raspberrypi,robloxstudio,ruby,rust,spring,supabase,svelte,tensorflow,threejs,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,vue,vuetify,windows,xd,yarn&theme=dark" />
+  </a>
+</p>
