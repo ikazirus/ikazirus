@@ -57,16 +57,11 @@ Since I'm a full-time Software Developer, I also like to share my code so others
  </a>
 </p>
 
-<p  align="center">
- <a href="https://github.com/ikazirus">
-<!--   <img align="center" src="https://myreadme.vercel.app/api/embed/ikazirus?panels=userstatistics,commitgraph" alt="kasunreadme" /> -->
- </a>
-</p>
-</br> 
+
 
 <p align="center"> 
 <!--   <img align="center" src="./res/load.gif"/> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ikazirus&theme=great-gatsby&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&theme=darkhub&no-frame=true&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 <!--   <img align="center" src="./res/load.gif"/z> -->
 </p>
 
