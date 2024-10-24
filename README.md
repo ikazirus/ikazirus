@@ -15,7 +15,6 @@
   
 </p>
 
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ikazirus&label=Profile%20views&style=flat" alt="ikazirus" /> 
 </p>
@@ -37,14 +36,6 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 - ⚡ Fun fact: Most of the logically advanced Games are developed using **Unity** Game Engine...
 </p>
 
-
-</br>
-
-### 🤙🏻 Contact Me 
-<a href="mailto:kazcorei@gmail.com">✉️ kazcorei@gmail.com</a>
-</br> 
-<a href="https://www.kazcore.com">🌐 www.kazcore.com</a>
-</br> 
 </br>
 
 ### My Github Stats
@@ -57,8 +48,6 @@ Since I'm a full-time Software Developer, I also like to share my code so others
  </a>
 </p>
 
-
-
 <p align="center"> 
 <!--   <img align="center" src="./res/load.gif"/> -->
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=ikazirus&theme=darkhub&no-frame=true&margin-w=12&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
@@ -66,9 +55,10 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 </p>
 
 </br>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/ikazirus">
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,apple,arch,arduino,aws,bash,bitbucket,blender,bootstrap,c,cs,cpp,css,dart,debian,bots,django,express,figma,firebase,flask,flutter,gamemakerstudio,gcp,git,github,githubactions,gitlab,go,godot,graphql,heroku,html,ai,java,js,kali,linux,md,materialui,mongodb,mysql,nestjs,nodejs,npm,opencv,ps,php,postgres,postman,raspberrypi,robloxstudio,spring,supabase,svelte,tensorflow,threejs,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,vue,vuetify,windows,xd,yarn&theme=dark" />
   </a>
-</p>
+</p> 
+-->
