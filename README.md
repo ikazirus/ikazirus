@@ -4,7 +4,7 @@
 </br>
 <p align="center">
  <a href="https://github.com/ikazirus">
-    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=ff8f00&center=true&vCenter=true&random=false&width=800&lines=Senior+Full+Stack+Developer;Expert+in+Mobile+Applications+%26+Game+Development;AR%2FVR%2FXR+Enthusiast;Cyber+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=ff8f00&center=true&vCenter=true&random=false&width=800&lines=Software+Development+Consultant;Expert+in+Mobile+Apps+%26+Games;AR%2FVR%2FXR+Enthusiast;Cyber+Security+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
