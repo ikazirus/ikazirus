@@ -40,11 +40,8 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 
 ### My Github Stats
 <p align="center">
-  <a href="https://github.com/ikazirus">
-    <img height="200" src="https://streak-stats.demolab.com?user=ikazirus&hide_border=true&theme=great-gatsby" alt="GitHub Streak" /> 
-  </a>
  <a href="https://github.com/ikazirus">
-    <img  height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikazirus&layout=compact&hide_border=true&theme=great-gatsby&langs_count=10" alt="kasunreadme" /> 
+    <img  height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikazirus&layout=compact&hide_border=true&theme=great-gatsby&langs_count=10" /> 
  </a>
 </p>
 
