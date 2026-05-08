@@ -17,7 +17,7 @@
 
 </br>
 
-# Hi, I am Kasun (KAZ) 👋
+# Hi, I am Kazun Attanayake (KAZ) 👋
 
 <p>
 I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
